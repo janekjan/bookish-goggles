@@ -1,1 +1,4 @@
-# Do nothing
+import hello
+
+hello.hello()
+
